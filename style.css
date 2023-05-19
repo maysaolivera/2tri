@@ -1,0 +1,11 @@
+:root {
+    --cor-de-fundo:rgb(0, 255, 234);
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+}
+
+.cabeçalho-meu{
+    background-color: var(--fundo-menu);
+}
